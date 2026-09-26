@@ -1,4 +1,4 @@
-# Olá, me chamo Arthur
+# Olá, me chamo Arthur Miguel
 - Estou no 4º período de Ciência da Computação (CC), na Faculdade Católica da Paraíba - Cajazeiras;
 Meu principal interesse é o desenvolvimento <b>Back-End</b> com foco em <b>Java</b> e <b>Python</b>
 
@@ -28,7 +28,7 @@ Meu principal interesse é o desenvolvimento <b>Back-End</b> com foco em <b>Java
 ## Ferramentas
 
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RhuanFelix)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yothur)
 
 ## Contatos 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yo.thur)
