@@ -19,8 +19,6 @@ Meu principal interesse é o desenvolvimento <b>Back-End</b> com foco em <b>Java
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 
-<img width="10%" align="right" alt="thur" src="https://cdn.discordapp.com/attachments/902256053541015603/1553417681380573184/pngegg.png?ex=6ab92c74&is=6ab7daf4&hm=18d585b14c0d855fd8437f85f519325d7ae90289f3377942a04e533c37c5d71e&"/>
-
 ## Bancos de Dados
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
