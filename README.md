@@ -1,8 +1,8 @@
 # Olá, me chamo Arthur Miguel
-- Estou no 4º período de Ciência da Computação (CC), na Faculdade Católica da Paraíba - Cajazeiras;
+Estou no 4º período de Ciência da Computação (CC), na Faculdade Católica da Paraíba - Cajazeiras;
 Meu principal interesse é o desenvolvimento <b>Back-End</b> com foco em <b>Java</b> e <b>Python</b>
 
-- Atualmente estou focado em aprimorar meu conhecimento com a biblioteca <b>React</b> e também desenvolvimento web com <b>Python+Flask</b>
+Atualmente estou focado em aprimorar meu conhecimento com a biblioteca <b>React</b> e também desenvolvimento web com <b>Python+Flask</b>
 
 # Tecnologias Que Conheço
 
